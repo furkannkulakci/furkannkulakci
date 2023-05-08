@@ -3,7 +3,6 @@
 - 🔭  I’m currently working on JavaScript and React
 - 🌱 I’m currently learning React.js
 
-- 📫 How to reach me: <img align="center" alt="linkedin | LinkedIn" width="20px" src="https://www.linkedin.com/in/furkankulakci/" />
 
 
 
